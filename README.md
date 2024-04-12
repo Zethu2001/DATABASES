@@ -30,3 +30,19 @@ Most of the actions you need to perform on a database are done with SQL statemen
   <li>The UPDATE statement is used to modify the existing records in a table.</li>
   <li>The DELETE statement is used to delete existing records in a table.</li>
 </ul>
+SQL FUNCTIONS<BR>
+<UL>
+  <LI>COUNT:function returns the number of rows that matches a specified criterion</LI>
+  <LI>SUM:function returns the total sum of a numeric column.</LI>
+  <LI>AVG:function returns the average value of a numeric column.</LI>
+</UL>
+SQL OPERATORS<BR>
+<UL>
+  <LI>LIKE: used in a WHERE clause to search for a specified pattern in a column.</LI>
+  There are two wildcards often used in conjunction with the LIKE operator:
+  <LI>The percent sign % represents zero, one, or multiple characters</LI>
+  <LI> The underscore sign _ represents one, single character</LI>
+  <LI>IN:allows you to specify multiple values in a WHERE clause.</LI>
+  <LI>BETWEEN:selects values within a given range</LI>
+                                                                                  
+</UL>
